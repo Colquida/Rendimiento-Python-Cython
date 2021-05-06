@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/83324055/117240089-af9fa480-adf5-11eb-8bcf-837288c0d315.png)
+
+Documento presentado a:
+Profesor John Jairo Corredor, PhD
+
+Presentado por:
+Jonathan Alexander Torres Benítez
+
 # Rendimiento Python contra Cython
 Comparativa de rendimiento Cython y Python. Optimizando el código de una función para reducir significativamente su tiempo de ejecución.
 
