@@ -4,4 +4,8 @@ Comparativa de rendimiento Cython y Python. Optimizando el código de una funci�
 # Representación gráfica del rendimiento entre ambos 
 ![Gráfica de Tiempos](https://user-images.githubusercontent.com/83324055/117239275-1a4fe080-adf4-11eb-9ff8-ef2c469fb876.jpg)
 
+Tiempo aproximado en Python: 10.327568769454956
 
+Tiempo Cython: 0.42362165451049805 
+
+SpeedUP: 24.379 
